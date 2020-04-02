@@ -4,5 +4,6 @@ public class Test1 {
         System.out.println("qwe");
         System.out.println("zxc");
         System.out.println("ry");
+        System.out.println("uoip");
     }
 }
